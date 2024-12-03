@@ -1,2 +1,2 @@
 # supervised_learning
-This repository contains a practical assignment for the Supervised learning course within the Data Science diploma program
+This repository contains a practical assignment for the Supervised Learning course within the Data Science diploma program. The activity consisted of a Kaggle competition: https://www.kaggle.com/competitions/supervisado-diplodatos2024/overview. The aim was to build machine learning models to predict diabetes in patients based on their clinical history and demographic information. All datasets are available at the link above.
